@@ -1,0 +1,1 @@
+If the viewport is less than 720px or equal to 720px wide, the background color of the web page will be yellow. In this repository I'm going to demonstrate how to make it using JavaScript for the website.
